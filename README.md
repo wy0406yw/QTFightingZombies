@@ -17,4 +17,4 @@ git clone https://github.com/wy0406yw/QTFightingZombies.git
 直接克隆到本地打开.pro文件就好了
 
 ## 效果展示
-![image name](http://wck.yuyan0406.top/downloads//123.png)
+![image name](https://github.com/wy0406yw/QTFightingZombies/blob/main/123.png)
